@@ -11,6 +11,6 @@
 5. >>>git commit -m "any_comments"
 
 6. Follow git repo instructions
->>>git remote add origin https://github.com/mostofakamalsagor1998/repo_name.git
+>>>git remote add origin https://github.com/git_user_name/repo_name.git
 >>>git branch -M main
 >>>git push -u origin main
