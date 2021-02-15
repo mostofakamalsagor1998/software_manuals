@@ -1,0 +1,16 @@
+1. Install git
+
+2. Configure git
+>>>git config --global user.name ""
+>>>git config --global user.email ""
+
+3. >>>git init
+
+4. >>>git add .
+
+5. >>>git commit -m "any_comments"
+
+6. Follow git repo instructions
+>>>git remote add origin https://github.com/mostofakamalsagor1998/repo_name.git
+>>>git branch -M main
+>>>git push -u origin main
