@@ -1,16 +1,29 @@
 1. Install git
 
-2. Configure git
->>>git config --global user.name ""
->>>git config --global user.email ""
+2. Lauch git
 
-3. >>>git init
+3. Go to your file explorer and copy the directory where you have kept your project
 
-4. >>>git add .
+4. Type "cd project_directory" in the git
 
-5. >>>git commit -m "any_comments"
+3. Configure git:
 
-6. Follow git repo instructions
->>>git remote add origin https://github.com/git_user_name/repo_name.git
->>>git branch -M main
->>>git push -u origin main
+$git config --global user.name ""
+-->Note: Provide your user name in the place of quotation marks
+
+$git config --global user.email ""
+-->Note: Provide your email address in the place of quotation marks
+
+5. $git init
+
+4. $git add .
+
+5. 4git commit -m "any_comments"
+
+6. Follow git repo instructions as asked to push the project to the particular repository or follow the following steps:
+
+$git remote add origin https://github.com/git_user_name/repo_name.git
+
+$git branch -M main
+
+$git push -u origin main
